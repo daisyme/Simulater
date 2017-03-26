@@ -1,2 +1,2 @@
 # Simulater
-A project that simulates evolve and resequence experiments
+A project that simulates E&R(evolve and resequence) experiments
